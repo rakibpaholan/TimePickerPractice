@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimepickerDailouge</string>
+    <string name="showTime">Time is here</string>
+    <string name="showClock">Show Clock</string>
+</resources>
